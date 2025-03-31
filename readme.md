@@ -1,5 +1,4 @@
 ```yaml
-# My key professional data in YAML format
 name: Max
 title: "Senior Software Developer (PHP) / DevOps Engineer"
 skills:
