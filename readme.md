@@ -17,6 +17,6 @@ skills:
     relational: "MySQL, PostgreSQL (with PostGIS)"
     nosql_and_caching: "Redis, Elasticsearch"
     messaging_and_queues: "Kafka, RabbitMQ"
-  monitoring_and_logging: "Sentry, GlitchTip, New Relic, ELK Stack, PLG"
+  monitoring_and_logging: "Sentry, GlitchTip, New Relic, ELK stack, PLG stack"
   version_control: "GitLab, GitHub, BitBucket"
   project_management: "Jira, Trello, YouTrack, Microsoft To Do, Yandex Tracker, Bitrix24"
