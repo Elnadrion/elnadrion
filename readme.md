@@ -3,7 +3,7 @@
 name: Max
 title: "Senior Software Developer (PHP) / DevOps Engineer"
 skills:
-  programming_languages: "PHP (7.4 - 8.4), JavaScript, Python, Swift"
+  programming_languages: "PHP, JavaScript, Python, Swift"
   frameworks_and_libraries:
     backend: "Laravel, Symfony"
     frontend: "Vue.js, Nuxt"
@@ -14,6 +14,8 @@ skills:
     orchestration_and_configuration: "Kubernetes, Kustomize, Helm, Kaniko, Ansible"
     cloud_and_infrastructure_as_code: "AWS, Terraform, Terragrunt"
     web_servers_and_runtimes: "Nginx, Nginx Unit, RoadRunner, Caddy"
+  security:
+    - Nessus, Qualys, Trivy, Retire.js, ModSecurity, OWASP CRS, Wazuh, Nmap, ClamAV
   databases_and_search:
     relational: "MySQL, PostgreSQL (with PostGIS)"
     nosql_and_caching: "Redis, Elasticsearch"
